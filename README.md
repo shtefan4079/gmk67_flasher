@@ -66,7 +66,3 @@ If your keyboard is not detected at all (no LEDs, not showing up in `lsusb` or D
 ### Pin Location Reference:
 ![GMK67 Recovery Pins Placeholder](pins.png)
 
----
-
-## Credits & License
-Developed for the community to keep their GMK67s alive.
